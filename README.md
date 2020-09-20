@@ -100,6 +100,7 @@ The following are quickstarts. These are written using libvirt, but are generic 
 * Bare Metal DHCP install [quickstart](docs/bmquickstart.md)
 * Bare Metal Static IPs install [quickstart](docs/bmquickstart-static.md)
 * Libvirt DHCP install [quickstart](docs/quickstart.md)
+* Libvirt Compact DHCP install [quickstart](docs/quickstart-compact.md)
 * Libvirt Static IPs install [quickstart](docs/quickstart-static.md)
 * DHCP install on KVM/Power [quickstart](docs/quickstart-ppc64le.md)
 * DHCP install on PowerVM [quickstart](docs/quickstart-powervm.md)

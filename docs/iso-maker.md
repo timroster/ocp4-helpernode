@@ -32,7 +32,7 @@ webserver_url: 192.168.7.77
 webserver_port: 8080
 install_drive: vda
 
-ocp_version: 4.5.2
+ocp_version: 4.5.8
 iso_checksum: 48e3cbbb632795f1cb4a5713d72c30b438a763468495db69c0a2ca7c7152856a
 iso_name: rhcos-{{ ocp_version }}-x86_64-installer.x86_64.iso
 rhcos_bios: bios.raw.gz
